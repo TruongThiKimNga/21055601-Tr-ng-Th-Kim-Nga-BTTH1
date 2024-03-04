@@ -1,0 +1,20 @@
+
+ .container {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    padding: 20px;
+    background-image: url('https://www.shutterstock.com/image-photo/beautiful-night-sky-600nw-264839402.jpg');
+    margin: auto; 
+  }
+  .info {
+    text-align: center;
+    color: white;
+    font-size: 20px
+  } 
+.yellow {color: #ffff00}
+.white {color: #ffffff}
+  .number {
+    font-size: 40px;
+    font-weight: bold;
+  }
